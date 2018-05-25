@@ -32,5 +32,5 @@ I followed the steps below to obtain a desired response:
 
 ## Challenges
 
-As the starter code suggested, I used another pid controller to control the speed of the car. However going over the forums, I realized
+I used another pid controller to control the speed of the car. However going over the forums, I realized
 some students have used a adaptive target speed for the car, based on how big the seeting angle is. I found it very interesting and helpful. So I also used an adaptive speed target which is between 20 to 40 mph, based on steering control signal. 
